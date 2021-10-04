@@ -2,8 +2,7 @@
 
 Projeto pessoal desenvolvido para colocar em prática o aprendizado de HTML e CSS. 
 
-O projeto possui:
-
+🚀
 - HTML semântico
 - Menu de navegação
 - Pseudo-classe :hover
